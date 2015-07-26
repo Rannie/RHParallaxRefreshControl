@@ -3,7 +3,7 @@
 
 A TableView Parallax Refresh Control.
 
-![Effect]()
+![Effect](https://raw.githubusercontent.com/Rannie/RHParallaxRefreshControl/master/Screenshot.gif)
 
 ###Usage
 ---
@@ -26,7 +26,6 @@ Initial and block event callback.
        });
    }];
 }
-
 ```
 
 Specify the imageview
@@ -56,7 +55,6 @@ Specify the imageview
   
   return cell;
 }
-
 ```
 
 Scroll Delegate
@@ -71,7 +69,6 @@ Scroll Delegate
 {
    [_parallaxContext scrollViewWillEndDragging:scrollView withVelocity:velocity targetContentOffset:targetContentOffset];
 }
-
 ```
 
 ###LICENSE
