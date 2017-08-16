@@ -5,7 +5,7 @@ A TableView Parallax Refresh Control.
 
 ![Effect](https://raw.githubusercontent.com/Rannie/RHParallaxRefreshControl/master/Screenshot.gif)
 
-###Usage
+### Usage
 ---
 
 Initial and block event callback.
@@ -71,7 +71,7 @@ Scroll Delegate
 }
 ```
 
-###LICENSE
+### LICENSE
 ---
 
 The MIT License (MIT)
